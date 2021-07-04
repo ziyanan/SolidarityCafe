@@ -1,7 +1,7 @@
 # SolidarityCafe
 
 ## Description
-SolidarityCafe is an online chat room app for women's solidarity and support. Developed by women and designed for women. We would like to support women's mental health by providing an platform for women to seek and lend help when they need someplace to confide their concerns and release their pressures and depressions. SolidarityCafe is coded with PHP, MySQL and javascript. 
+SolidarityCafe is an online chat room app for women's solidarity and support. Developed by women and designed for women. We would like to support women's mental health by providing a platform for women to seek and lend help when they need someplace to confide their concerns and release their pressures and depressions. SolidarityCafe is coded with PHP, MySQL and javascript. 
 
 ## Project Members
 [Kaitlyn Liu](https://github.com/kliu513)
