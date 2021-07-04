@@ -24,6 +24,6 @@ SolidarityCafe is an online chat room app for women's solidarity and support. De
     4. From the XAMPP Control Panel, choose Config on the top right corner
     5. Select Service and Port Settings in　Configuration of Control Panel
     6. Under Apache tab, change Main Port to 8080 and SSL Port to 4433
-6. To set up the dataset, navigating to http://localhost/phpmyadmin or http://localhost:8080/phpmyadmin or http://127.0.0.1:8080/phpmyadmin
+6. To set up the dataset, navigate to http://localhost/phpmyadmin or http://localhost:8080/phpmyadmin or http://127.0.0.1:8080/phpmyadmin
 7. Create a new dataset named solidaritycafe, then upload the .sql file in xampp/htdoc/SolidarityCafe/ folder
 8. Open the chat room by navigating to http://localhost/solidaritycafe or http://localhost:8080/solidaritycafe or http://127.0.0.1:8080/solidaritycafe/index.php
